@@ -30,3 +30,8 @@ Kaggle competition solution for predicting house sale prices.
 ---
 
 ## Project Structure
+├── train.csv
+├── test.csv
+├── data_description.txt
+├── submission.csv          # Final predictions
+└── README.md
